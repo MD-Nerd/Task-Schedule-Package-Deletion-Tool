@@ -113,7 +113,6 @@ The core logic script. Handles logging, directory creation, permission changes, 
 
 ### **Main.ps1**
 ```plaintext
-Warning: This script is only meant to be used at the discretion of the Microsoft Support Engineer.
 
 Requesting User input.
 Please enter the full KB number, for example, KB450765: KB500765
