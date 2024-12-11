@@ -139,7 +139,6 @@ Function Remove_ScheduledTask() {
    Logs all actions performed during the script execution.
 #>
 
-Write-Warning "This script is only meant to be used at the discretion of the Microsoft Support Engineer. Future uses without supervisory of a Microsoft Engineer are not supported."
 
 Set-Logging("Requesting User input.")
 $KB_Number = Read-Host "`nPlease enter the full KB number, for example, KB450765"
